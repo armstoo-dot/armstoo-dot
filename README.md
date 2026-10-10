@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Armstrong Too
 
-<!--
-**armstoo-dot/armstoo-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of **Armstrong Labs** and **Armstrong Studios**, based in Nairobi, Kenya.
 
-Here are some ideas to get you started:
+**Armstrong Labs** builds at the meeting point of creativity and AI:
+- AI-powered storytelling
+- Agentic automation
+- Creative technology and digital products
+- Research and education
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Armstrong Studios** is where it started in 2011: 15 years of professional photography, filmmaking, visual storytelling and post-production for commercial and humanitarian work.
+
+Human taste. AI workflows.
+
+Connect on [LinkedIn](https://www.linkedin.com/in/armstoo).
