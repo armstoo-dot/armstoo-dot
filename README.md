@@ -1,4 +1,4 @@
-# Hi, I'm Armstrong Too
+# Hi, I'm Armstrong Kiprotich
 
 Founder of **Armstrong Labs** and **Armstrong Studios**, based in Nairobi, Kenya.
 
